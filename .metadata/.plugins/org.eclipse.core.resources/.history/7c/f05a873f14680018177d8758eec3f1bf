@@ -1,0 +1,5 @@
+package org.openqua.selenium;
+
+public @interface WebDriver {
+
+}
