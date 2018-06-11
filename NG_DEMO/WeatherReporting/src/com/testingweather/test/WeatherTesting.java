@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class WeatherTesting {
 	
 	@Test
-	public void WeatherReport(
+	public void WeatherReport()
 	{
 		System.out.println("Weather Report");
 		
